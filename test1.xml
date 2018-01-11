@@ -7,8 +7,8 @@
    <title>Search TMDB</title>
    <tmdb>search</tmdb>
 </dir>
-<plugin>
+<dir>
 <name>tv</name>
 <link>https://raw.githubusercontent.com/snug2/madhead/master/who%20test.xml</link>
 <thumbnail></thumbnail>
-</plugin>
+</dir>
