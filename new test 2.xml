@@ -1,0 +1,9 @@
+<dir>
+<title>TMDB Popular</title>
+<tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+<title>my faves</title>
+<tmdb>list/44931</tmdb>
+</dir>
