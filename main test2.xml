@@ -1,0 +1,14 @@
+<dir>
+     <name>movies</name>
+     <link>https://raw.githubusercontent.com/snug2/madhead/master/new%20test%202.xml</link>
+     <thumbnail></thumbnail>
+     <summary>movies</summary>
+</dir>
+
+<dir>
+     <name>tv</name>
+     <link></link>
+     <thumbnail></thumbnail>
+     <summary>tv</summary>
+</dir>
+
