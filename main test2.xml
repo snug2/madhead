@@ -12,3 +12,8 @@
      <summary>tv</summary>
 </dir>
 
+<dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
