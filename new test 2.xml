@@ -7,3 +7,8 @@
 <title>my faves</title>
 <tmdb>list/44931</tmdb>
 </dir>
+
+<dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
