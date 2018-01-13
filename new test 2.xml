@@ -1,3 +1,4 @@
+
 <dir>
 <title>TMDB Popular</title>
 <tmdb>movies/popular</tmdb>
@@ -8,7 +9,3 @@
 <tmdb>list/44931</tmdb>
 </dir>
 
-<dir>
-  <title>Search TMDB</title>
-  <tmdb>search</tmdb>
-</dir>
